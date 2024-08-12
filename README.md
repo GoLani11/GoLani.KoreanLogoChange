@@ -1,9 +1,9 @@
 # SPT Logo Korean Change Mod / SPT 한국어 로고 변경 모드
 
 ## English
-Modes to change the Tarkov logo to Korean.
+Mod to change the Tarkov logo to Korean.
 
-!Caution!: This is just a mode to overwrite the assets file. It is not a mode to insert an image file and change it.
+!Caution!: This is just a mod to overwrite the assets file. It is not a mod to insert an image file and change it.
 
 ### How to apply it?
 
@@ -11,7 +11,7 @@ SPT / user / mods / GoLani-LogoChange
 
 Please apply it so that it becomes a path like this.
 
-### Workaround in the event of a problem after applying the mode
+### Workaround in the event of a problem after applying the mod
 
 user / mods / GoLani-LogoChange / backup / sharedassets178.assets
 
