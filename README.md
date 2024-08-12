@@ -1,4 +1,4 @@
-# SPT-Korean-Project / SPT-한글화-프로젝트
+# SPT Logo Korean Change Mod / SPT 한국어 로고 변경 모드
 
 ## English
 Modes to change the Tarkov logo to Korean.
