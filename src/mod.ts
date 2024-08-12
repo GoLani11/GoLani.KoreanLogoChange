@@ -11,7 +11,7 @@ class LogoChangeMod implements IPreSptLoadMod {
         const preSptModLoader = container.resolve<PreSptModLoader>("PreSptModLoader");
         const vfs = container.resolve<VFS>("VFS");
 
-        const modPath = preSptModLoader.getModPath("spt_logo_change");
+        const modPath = preSptModLoader.getModPath("GoLani-LogoChange");
         const sourceAssetPath = path.join(modPath, "res", "sharedassets178.assets");
         const targetAssetPath = "EscapeFromTarkov_Data/sharedassets178.assets";
 
