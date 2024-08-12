@@ -5,9 +5,6 @@ Modes to change the Tarkov logo to Korean.
 
 !Caution!: This is just a mode to overwrite the assets file. It is not a mode to insert an image file and change it.
 
-There are still a lot of mistranslations, so I would appreciate it if you could test them and report them.
-Thank you for reading.
-
 ### How to apply it?
 
 SPT / user / mods / GoLani-LogoChange
