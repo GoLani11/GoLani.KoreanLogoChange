@@ -26,7 +26,7 @@ You can use the source code freely if you just leave a comment and an address.
 
 
 Font Source
-- 카페 24 모야모야 face
+- 카페 24 모야모야 face (https://fonts.cafe24.com/)
 
 ## 한국어
 타르코프 로고를 한국어로 변경하는 모드입니다.
@@ -49,6 +49,6 @@ SPT / EscapeFromTarkov_Data / sharedassets178.assets
 
 
 폰트 출처
-- 카페 24 모야모야 face
+- 카페 24 모야모야 face (https://fonts.cafe24.com/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoLani11%2FGoLani.KoreanLogoChange%2Ftree%2Fv1.0.0&count_bg=%2343C0C6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
