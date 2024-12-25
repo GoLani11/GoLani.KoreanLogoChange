@@ -1,7 +1,7 @@
 {
     "name": "SPT_Logo_Change_(G_L)",
-    "version": "1.0.0",
-    "sptVersion": "~3.9",
+    "version": "1.1.0",
+    "sptVersion": "~3.10",
     "loadBefore": [],
     "loadAfter": [],
     "incompatibilities": [],
